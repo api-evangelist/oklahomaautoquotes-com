@@ -64,5 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-oklahomaautoquotes-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://oklahomaautoquotes.com/
+Oklahoma Auto Quotes provides auto insurance quotes for residents of Oklahoma. The service connects users with licensed insurance agents to obtain personalized quotes without requiring a phone call. It emphasizes transparency, allowing customers to compare options and choose coverage that fits their needs, with a focus on simplicity and no-pressure sales.
+
+**Areas:** Company · Insurance · Auto · Quotes · Oklahoma
+
+## oklahomaautoquotes-com on APIs.io
+
+Everything profiled for oklahomaautoquotes-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/oklahomaautoquotes-com/](https://apis.io/providers/oklahomaautoquotes-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Oklahoma Insurance API](https://apis.io/apis/oklahomaautoquotes-com/oklahoma-insurance-api/) — Indicative US personal auto insurance prices for AI agents acting as customers.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [oklahomaautoquotes-com API Rules](https://apis.io/rules/oklahomaautoquotes-com/oklahomaautoquotes-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Oklahomaautoquotes Com Domain Security](https://apis.io/security/oklahomaautoquotes-com/oklahomaautoquotes-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://oklahomaautoquotes.com/)
+- [API reference](https://oklahomaautoquotes.com/openapi.json)
+- [Privacy policy](https://oklahomaautoquotes.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 18.5** — emerging · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.3 |
+| Contract quality | 0.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 13.6 |
+| Access clarity | 10.5 |
+
+**Agent readiness 15.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.2** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/oklahomaautoquotes-com/](https://apis.io/providers/oklahomaautoquotes-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for oklahomaautoquotes-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/oklahomaautoquotes-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
